@@ -1,1 +1,1 @@
-# blazor
+# EventEaseApp
